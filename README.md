@@ -12,7 +12,7 @@ Key features:
 
 ## Requirements
 
-* Unity 3.x or greater.
+* Unity 3.x or greater. (Probably.)
 
 
 ## Install
