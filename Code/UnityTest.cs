@@ -3,6 +3,7 @@
 //  Copyright 2009-2012 MrJoy, Inc.
 //  All rights reserved
 //
+//  2013-06-21 - HCR - Add this comment.
 //  2009-10-18 - jdf - Get rid of support for legacy assert syntax.
 //                   - Add some support for backtraces.
 //                   - Refactor testunner and GUI code considerably.
